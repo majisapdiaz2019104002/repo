@@ -18,3 +18,4 @@ Dibangun menggunakan
 	- PHP & MySQL
 	- jQuery
 	- HTML & CSS
+![Tampilan Awal](image/tampilan-awal.PNG)

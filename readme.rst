@@ -2,6 +2,7 @@
 Web Application Asynchronous E-learning STMIK METHODIST
 ###################
 
+.. image:: image/tampilan-awal.png 
 
 Multi user, Admin, Dosen dan Mahasiswa.
 
@@ -18,4 +19,3 @@ Dibangun menggunakan
 	- PHP & MySQL
 	- jQuery
 	- HTML & CSS
-![Tampilan Awal](image/tampilan-awal.PNG)
